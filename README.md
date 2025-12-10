@@ -173,20 +173,22 @@ Guest Speaker – Flower Labs (Aug 2025)
 
 
 ## 📚 Citation
+[![Cite this work](https://img.shields.io/badge/Cite%20this%20paper-BibTeX-blue.svg)](#citation)
 
 ```bibtex
 @article{das2025federated,
-  title={Federated Skin Cancer Detection Using CNNs and FedOPT Optimization: A Privacy-Preserving Dermatology AI Framework},
+  title={Federated Skin Cancer Detection Using CNNs and FedOPT Optimization: 
+         A Privacy-Preserving Dermatology AI Framework},
   author={Das, Priyanka},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2025},
   url={https://github.com/priyankadas1109/FederatedLearning}
 }
-This is the **standard BibTeX style** used for arXiv preprints.
+
+```
 
 ---
 
-```
 ## 🧪 Research Recognition
 
 This project was presented as a guest speaker session at the Flower Monthly community event.  
