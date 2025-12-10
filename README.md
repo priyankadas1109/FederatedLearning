@@ -1,6 +1,8 @@
 # Federated Skin Cancer Detection Using CNNs and FedOPT Optimization  
 *A Privacy-Preserving Dermatology AI Framework with Client-Level Metric Tracking and 3D Learning Dynamics*
 
+[![Flower Monthly](https://img.shields.io/badge/Presented%20at-Flower%20Monthly-blueviolet?style=for-the-badge&logo=flower&logoColor=white)](https://www.youtube.com/watch?v=MXLK5_ibPKw&list=LL&index=264&t=1863s)
+
 ---
 
 ## 📌 Overview  
