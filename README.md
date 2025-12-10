@@ -84,8 +84,8 @@ Each client dataset is upsampled to match the majority class count.
 
 ---
 
-## 📂 Repository Structure  
-
+## 📂 Repository Structure**
+```plaintext
 FederatedLearning/
 │
 ├── code/
@@ -102,7 +102,7 @@ FederatedLearning/
 │ └── Figure_1.png
 │
 └── README.md
-
+```
 
 ---
 
