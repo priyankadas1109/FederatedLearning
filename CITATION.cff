@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Federated Skin Cancer Detection Using CNNs and FedOPT Optimization"
+authors:
+  - family-names: "Das"
+    given-names: "Priyanka"
+    email: "priyankadas1109@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2025-08-15"
+repository-code: "https://github.com/priyankadas1109/FederatedLearning"
+doi: ""
+keywords:
+  - federated learning
+  - FedOPT
+  - CNN
+  - dermatology AI
+  - HAM10000
+  - privacy-preserving ML
+  - medical imaging
+abstract: >
+  This work implements a federated learning framework for skin cancer
+  classification using the HAM10000 dataset. A lightweight convolutional
+  neural network (CNN) is trained across multiple simulated clients using
+  Flower's FedOPT strategy, incorporating client-level upsampling and
+  per-round/per-client performance tracking. The project includes
+  visualizations of accuracy, loss dynamics, and multi-class ROC curves,
+  along with a detailed whitepaper describing system design, methodology,
+  and experimental findings.
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Federated Skin Cancer Detection Using CNNs and FedOPT Optimization"
+  authors:
+    - family-names: "Das"
+      given-names: "Priyanka"
+  year: 2025
+  journal: "arXiv preprint"
+  doi: ""
