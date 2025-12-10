@@ -128,12 +128,16 @@ python code/FederatedLearning_FedAVG.py
 ```
 The scripts will generate all loss, accuracy, and ROC visualizations automatically.
 
+---
+
 
 ## 📄 Whitepaper
 
 The detailed whitepaper describing methodology, experiments, and evaluation is available here:
 ### 📎 FedOPT Whitepaper
 ![Whitepaper](whitepaper/FedOPT Whitepaper.pdf)
+
+---
 
 
 ## 🧬 Use Cases
@@ -150,6 +154,8 @@ This framework can be extended for:
 
 - AI governance and healthcare compliance studies
 
+---
+
 
 ## ⭐ Author
 
@@ -161,6 +167,8 @@ Guest Speaker – Flower Labs (Aug 2025)
 
 🔗 LinkedIn: https://www.linkedin.com/in/priyanka-das/
 
+---
+
 
 ## 📚 Citation
 
@@ -169,6 +177,7 @@ If you use this work, please cite:
 Das, P. (2025). Federated Skin Cancer Detection Using CNNs and FedOPT Optimization:
 A Privacy-Preserving Dermatology AI Framework. arXiv preprint (in submission).
 
+---
 
 ## 📝 License
 
